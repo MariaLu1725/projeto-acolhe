@@ -20,7 +20,6 @@ projeto-acolhe/
 ├── sistema_acolhe_completo.py   # Código-fonte principal da aplicação Web e API
 ├── requirements.txt             # Dependências Python para execução e deploy
 ├── Dockerfile                   # Configuração do contêiner Docker
-├── .gitignore                   # Arquivos ignorados no repositório Git
 └── README.md                    # Documentação técnica do projeto
 ```
 
